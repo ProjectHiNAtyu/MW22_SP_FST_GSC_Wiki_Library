@@ -3,8 +3,11 @@
 [ About ]
 
 I express my heartfelt respect and gratitude to Mr. Sku-111, who devised and implemented this injection process.
+
 The GSCBIN Dump, GSC Injector, and GSC Dumper are based on the GSC Injection process devised by Mr. Sku-111 in Project Donetsk, which we have reconstructed and utilized.
+
 Additionally, the GSC Source is based on Mr. xensik's gsc-tool and has been decompiled.
+
 Thank you always, and I support you.
 
 ----------
