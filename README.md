@@ -153,12 +153,16 @@ Please direct your questions to xensik.
 [ Custom GSC ( gsc-tool ) ]
 
 < dump >
+
 * A "GSCBIN" folder containing the gscbin for iw9 needs to be placed in the same directory hierarchy as gsc-tool_iw9sp.exe.
+
 gsc-tool_iw9sp -m decomp -g s4 -s pc GSCBIN
 
 
 < compile >
+
 * A "GSCModSource" folder containing the custom GSC source for iw9 needs to be placed in the same directory hierarchy as gsc-tool_iw9sp.exe.
+
 gsc-tool_iw9sp -m comp -g s4 -s pc GSCModSource
 
 
