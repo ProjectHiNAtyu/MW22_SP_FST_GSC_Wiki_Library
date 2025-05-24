@@ -2,17 +2,21 @@
 
 [ About ]
 
-I express my heartfelt respect and gratitude to Mr. Sku-111, who devised and implemented this injection process.
 
 The GSCBIN Dump, GSC Injector, and GSC Dumper are based on the GSC Injection process devised by Mr. Sku-111 in Project Donetsk, which we have reconstructed and utilized.
+
+I express my heartfelt respect and gratitude to Mr. Sku-111, who devised and implemented this injection process.
 
 Additionally, the GSC Source is based on Mr. xensik's gsc-tool and has been decompiled.
 
 Thank you always, and I support you.
 
+
 ----------
 
+
 [ Support environment ]
+
 
 Platform : PC ( Windows 10 , Windows 11 )
 
@@ -26,17 +30,23 @@ dll name : mw22_sp_injector.dll
 
 Directory name : C:\Users\??\Documents\MW22_SP_FST_GSC_CUSTOM
 
+
 ----------
 
+
 [ Video ]
+
 
 If you’d like to learn more about this GSC Mod Menu, please check out the YouTube video below.
 
 * will upload soon...
 
+
 ----------
 
+
 [ Implemented ]
+
 
 The following items are currently completed:
 
@@ -45,9 +55,12 @@ The following items are currently completed:
 - GSC Dumper
 - GSCBIN Dump Data
 
+
 ----------
 
+
 [ Caution ]
+
 
 < Generic >
 
@@ -69,32 +82,47 @@ The following items are currently completed:
 * Be sure to use this Injector only with an offline version of MWII SP!
 * If you use it with the Retail Version, the consequences are at your own risk.
 
+
 ----------
+
 
 < GSC Injector / dll Injector ( Face injector ) >
 
 Place this "MW22_SP_FST_GSC_CUSTOM" folder in the Documents folder on your PC.
+
 Then, run "CoDMW22_SP_dll_Injector.exe" as an administrator.
+
 
 Since this Face Injector operates at the kernel level, it may be flagged as a virus. Before running the app, disable the Windows antivirus system in advance.
 
 After launching the app, once the driver is initialized, start Call of Duty Modern Warfare II Campaign Offline Build.
+
 Once the game is launched, the Face Injector will recognize MWII SP and automatically begin the GSC Injection process.
 
+
 Note that this Face Injector uses a driver pattern that is detected in the retail version of Call of Duty.
+
 After using GSC in the MWII SP, if you plan to launch other games, restart your PC beforehand.
+
 Shutting down the PC or unplugging the power cord will prevent the driver from initializing properly, increasing the risk of a ban.
+
 Be sure to carefully restart your PC to avoid this.
 
+
 ----------
+
 
 < gsc-tool >
 
 This app is a command-line tool operated via cmd.
+
 HiNAtyu does not accept questions regarding the tool.
+
 Please direct your questions to xensik.
 
+
 ----------
+
 
 [ How to use ]
 
@@ -118,7 +146,9 @@ Please direct your questions to xensik.
 
 10. After you’re done playing with the Mod Menu, be sure to restart your PC before playing any other games.
 
+
 ----------
+
 
 [ Custom GSC ( gsc-tool ) ]
 
@@ -126,26 +156,40 @@ Please direct your questions to xensik.
 * A "GSCBIN" folder containing the gscbin for iw9 needs to be placed in the same directory hierarchy as gsc-tool_iw9sp.exe.
 gsc-tool_iw9sp -m decomp -g s4 -s pc GSCBIN
 
+
 < compile >
 * A "GSCModSource" folder containing the custom GSC source for iw9 needs to be placed in the same directory hierarchy as gsc-tool_iw9sp.exe.
 gsc-tool_iw9sp -m comp -g s4 -s pc GSCModSource
 
+
 Currently, the following GSC functions and tokens can be used.
+
 All other commands are almost always incorrect and may cause a crash.
 
+
 ----------
+
 
 [ Promotion ]
 
 Discord : hinatapoko
+
 Twitter 1 (Main) : https://x.com/KonataGIF
+
 Twitter 2 (Sub) : https://x.com/H1NAtyu
+
 YouTube : HiNAtyu Studio ( https://www.youtube.com/@hinatyuproject/featured )
 
+
 I’d be very happy if you could follow, subscribe, like, or comment on my various SNS accounts. 
+
 If you like my work, I'd be happy if you could sponsor or donate.
+
 This will help facilitate the development of new features and fixes.
 
+
 Ko-fi : https://ko-fi.com/hinatyustudio
+
 BTC : 32J66dfWi9dqqWHS2RYR9rFCUNBL88vgUR
+
 ETH : 0xaE5D5b3e8E865B2bA676a24eF41d5f4CBD315978
