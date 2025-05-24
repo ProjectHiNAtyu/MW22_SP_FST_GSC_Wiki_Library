@@ -15,10 +15,15 @@ Thank you always, and I support you.
 [ Support environment ]
 
 Platform : PC ( Windows 10 , Windows 11 )
+
 Game title : Call of Duty Modern Warfare II
+
 Game release year : 2022
+
 Support mode : SP ( Singleplayer *Campaign )
+
 dll name : mw22_sp_injector.dll
+
 Directory name : C:\Users\??\Documents\MW22_SP_FST_GSC_CUSTOM
 
 ----------
