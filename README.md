@@ -39,7 +39,7 @@ Directory name : C:\Users\??\Documents\MW22_SP_FST_GSC_CUSTOM
 
 If you’d like to learn more about this GSC Mod Menu, please check out the YouTube video below.
 
-* will upload soon...
+https://youtu.be/lhl8Dju5In8?si=6fNxM0s0E8H7AtKD
 
 
 ----------
