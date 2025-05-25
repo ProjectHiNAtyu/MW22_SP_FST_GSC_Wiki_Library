@@ -54,6 +54,8 @@ The following items are currently completed:
 - GSC Injector
 - GSC Dumper
 - GSCBIN Dump Data
+- GSC Mod Menu - Project HiNAtyu ( Compiled )
+- GSC Mod Menu - Project HiNAtyu ( Sourcecode )
 
 
 ----------
@@ -120,6 +122,9 @@ HiNAtyu does not accept questions regarding the tool.
 
 Please direct your questions to xensik.
 
+Please download and use the latest version of the release file for gsc-tool from xensik's official repository.
+
+https://github.com/xensik/gsc-tool
 
 ----------
 
@@ -154,21 +159,23 @@ Please direct your questions to xensik.
 
 < dump >
 
-* A "GSCBIN" folder containing the gscbin for iw9 needs to be placed in the same directory hierarchy as gsc-tool_iw9sp.exe.
+* A "GSCBIN" folder containing the gscbin for iw9 needs to be placed in the same directory hierarchy as gsc-tool.exe.
 
-gsc-tool_iw9sp -m decomp -g s4 -s pc GSCBIN
+gsc-tool -m decomp -g iw9 -s pc GSCBIN
 
 
 < compile >
 
-* A "GSCModSource" folder containing the custom GSC source for iw9 needs to be placed in the same directory hierarchy as gsc-tool_iw9sp.exe.
+* A "GSCModSource" folder containing the custom GSC source for iw9 needs to be placed in the same directory hierarchy as gsc-tool.exe.
 
-gsc-tool_iw9sp -m comp -g s4 -s pc GSCModSource
+gsc-tool -m comp -g iw9 -s pc GSCModSource
 
 
-Currently, the following GSC functions and tokens can be used.
+You are free to modify the GSC Mod Menu source code I released.
 
-All other commands are almost always incorrect and may cause a crash.
+However, I will not provide explanations on how to modify GSC, coding methods, or basic coding knowledge.
+
+Please figure it out on your own.
 
 
 ----------
